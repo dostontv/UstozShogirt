@@ -1,0 +1,420 @@
+# Uzbek translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-05-19 15:16+0500\n"
+"PO-Revision-Date: 2024-05-07 17:14+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: uz\n"
+"Language-Team: uz <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: bot/handlers/private/need.py:30
+msgid " kerak"
+msgstr ""
+
+#: bot/handlers/private/need.py:34
+msgid " kerak Bunga oid sizga bir nechta savollar beriladi"
+msgstr ""
+
+#: bot/handlers/private/need.py:36 bot/handlers/private/need.py:47
+#: bot/handlers/private/need.py:81 bot/handlers/private/need.py:92
+#: bot/handlers/private/need.py:103 bot/handlers/private/need.py:114
+#: bot/handlers/private/need.py:133
+msgid "Xodim"
+msgstr ""
+
+#: bot/handlers/private/need.py:37
+msgid ""
+"🏢 Idora: \n"
+"🎓 Idora nomi?"
+msgstr ""
+
+#: bot/handlers/private/need.py:39
+msgid ""
+"\n"
+"Ism, familiyangizni kiriting?"
+msgstr ""
+
+#: bot/handlers/private/need.py:48
+msgid ""
+"✍️ Mas'ul: \n"
+"\n"
+"✍️Mas'ul ism sharifi?"
+msgstr ""
+
+#: bot/handlers/private/need.py:50
+msgid ""
+"🕑 Yosh: \n"
+"Yoshingizni kiriting? \n"
+"Masalan, 19"
+msgstr ""
+
+#: bot/handlers/private/need.py:58
+msgid ""
+"📚 Texnologiya:\n"
+"Talab qilinadigan texnologiyalarni kiriting?\n"
+"Texnologiya nomlarini vergul bilan ajrating. Masalan, \n"
+"Java, C++, C#"
+msgstr ""
+
+#: bot/handlers/private/need.py:65
+msgid ""
+"📞 Aloqa: \n"
+"\n"
+"Bog`lanish uchun raqamingizni kiriting?\n"
+"Masalan, +998 90 123 45 67"
+msgstr ""
+
+#: bot/handlers/private/need.py:73
+msgid ""
+"🌐 Hudud: \n"
+"\n"
+"Qaysi hududdansiz?\n"
+"Viloyat nomi, Toshkent shahar yoki Respublikani kiriting."
+msgstr ""
+
+#: bot/handlers/private/need.py:82
+msgid ""
+"💰 Maosh: \n"
+"\n"
+"💰 Maoshni kiriting?"
+msgstr ""
+
+#: bot/handlers/private/need.py:84
+msgid ""
+"💰 Narxi:\n"
+"\n"
+"Tolov qilasizmi yoki Tekinmi?\n"
+"Kerak bo`lsa, Summani kiriting?"
+msgstr ""
+
+#: bot/handlers/private/need.py:93
+msgid ""
+"🕰 Ish vaqti: \n"
+"\n"
+"🕰 Ish vaqtini kiriting?"
+msgstr ""
+
+#: bot/handlers/private/need.py:95
+msgid ""
+"👨🏻‍💻 Kasbi: \n"
+"\n"
+"Ishlaysizmi yoki o`qiysizmi?\n"
+"Masalan, Talaba"
+msgstr ""
+
+#: bot/handlers/private/need.py:104
+msgid ""
+"‼️ Qo`shimcha: \n"
+"\n"
+"‼️ Qo`shimcha ma`lumotlar?"
+msgstr ""
+
+#: bot/handlers/private/need.py:106
+msgid ""
+"🔎 Maqsad: \n"
+"\n"
+"Maqsadingizni qisqacha yozib bering."
+msgstr ""
+
+#: bot/handlers/private/need.py:115
+msgid ""
+"\n"
+"    Xodim kerak:\n"
+"    🏢 Idora: {full_name}\n"
+"    📚 Texnologiya: {technologies}\n"
+"    📞 Aloqa: {phone_number}\n"
+"    🌐 Hudud: {address}\n"
+"    ✍️ Mas'ul: {age}\n"
+"    🕰 Ish vaqti: {work_place}\n"
+"    💰 Maosh: {price}\n"
+"    ‼️ Qo`shimcha: {goal}"
+msgstr ""
+
+#: bot/handlers/private/need.py:126 bot/handlers/private/need.py:127
+msgid "Sherik"
+msgstr ""
+
+#: bot/handlers/private/need.py:128 bot/handlers/private/need.py:129
+msgid "Ustoz"
+msgstr ""
+
+#: bot/handlers/private/need.py:130 bot/handlers/private/need.py:131
+msgid "Shogird"
+msgstr ""
+
+#: bot/handlers/private/need.py:134
+msgid ""
+"\n"
+"    {button} kerak:\n"
+"    {a}: {full_name}\n"
+"    🕑 Yosh: {age}\n"
+"    📚 Texnologiya: {technologies}\n"
+"    📞 Aloqa: {phone_number}\n"
+"    🌐 Hudud: {address}\n"
+"    💰 Narxi: {price}\n"
+"    💼 Kasbi: {work_place}\n"
+"    🔎 Maqsad: {goal}\n"
+"    "
+msgstr ""
+
+#: bot/handlers/private/need.py:155
+msgid "adminga yuborildi"
+msgstr ""
+
+#: bot/handlers/private/need.py:157 bot/handlers/private/need.py:167
+msgid "Bekor qilindi"
+msgstr ""
+
+#: bot/handlers/private/start.py:20
+msgid "Assalomu alaykum "
+msgstr ""
+
+#: bot/handlers/private/start.py:25
+msgid "Tilni tanglang"
+msgstr ""
+
+#: bot/handlers/private/start.py:33
+msgid "Til tanlandi"
+msgstr ""
+
+#: bot/keyboards/inline.py:24
+msgid "Ha "
+msgstr ""
+
+#: bot/keyboards/inline.py:25
+msgid "Yoq "
+msgstr ""
+
+#: bot/keyboards/reply.py:9 bot/keyboards/reply.py:15
+msgid "Sherik kerak"
+msgstr ""
+
+#: bot/keyboards/reply.py:10 bot/keyboards/reply.py:16
+msgid "Ish joyi kerak"
+msgstr ""
+
+#: bot/keyboards/reply.py:11 bot/keyboards/reply.py:17
+msgid "Xodim kerak"
+msgstr ""
+
+#: bot/keyboards/reply.py:12 bot/keyboards/reply.py:18
+msgid "Ustoz kerak"
+msgstr ""
+
+#: bot/keyboards/reply.py:13 bot/keyboards/reply.py:19
+msgid "Shogird kerak"
+msgstr ""
+
+#: bot/keyboards/reply.py:29
+msgid "Bekor qilish"
+msgstr ""
+
+#~ msgid "Assalomu alaykum "
+#~ msgstr ""
+
+#~ msgid ""
+#~ "🏢 Idora: \n"
+#~ "🎓 Idora nomi?"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "✍️ Mas'ul: \n"
+#~ "\n"
+#~ "✍️Mas'ul ism sharifi?"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "📚 Texnologiya:\n"
+#~ "\n"
+#~ "Talab qilinadigan texnologiyalarni kiriting?\n"
+#~ "Texnologiya nomlarini vergul bilan ajrating. Masalan, \n"
+#~ "\n"
+#~ "Java, C++, C#"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "📞 Aloqa: \n"
+#~ "\n"
+#~ "Bog`lanish uchun raqamingizni kiriting?\n"
+#~ "Masalan, +998 90 123 45 67"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "🌐 Hudud: \n"
+#~ "\n"
+#~ "Qaysi hududdansiz?\n"
+#~ "Viloyat nomi, Toshkent shahar yoki Respublikani kiriting."
+#~ msgstr ""
+
+#~ msgid " kerak Bunga oid sizga bir nechta savollar beriladi"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "\n"
+#~ "Ism, familiyangizni kiriting?"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "🕑 Yosh: \n"
+#~ "Yoshingizni kiriting? \n"
+#~ "Masalan, 19"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "💰 Maosh: \n"
+#~ "\n"
+#~ "💰 Maoshni kiriting?"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "💰 Narxi:\n"
+#~ "\n"
+#~ "Tolov qilasizmi yoki Tekinmi?\n"
+#~ "Kerak bo`lsa, Summani kiriting?"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "🕰 Ish vaqti: \n"
+#~ "\n"
+#~ "🕰 Ish vaqtini kiriting?"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "👨🏻‍💻 Kasbi: \n"
+#~ "\n"
+#~ "Ishlaysizmi yoki o`qiysizmi?\n"
+#~ "Masalan, Talaba"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "‼️ Qo`shimcha: \n"
+#~ "\n"
+#~ "‼️ Qo`shimcha ma`lumotlar?"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "🔎 Maqsad: \n"
+#~ "\n"
+#~ "Maqsadingizni qisqacha yozib bering."
+#~ msgstr ""
+
+#~ msgid "Xodim"
+#~ msgstr ""
+
+#~ msgid "Yosh"
+#~ msgstr ""
+
+#~ msgid "Narxi"
+#~ msgstr ""
+
+#~ msgid "Kasbi"
+#~ msgstr ""
+
+#~ msgid "Maqsad"
+#~ msgstr ""
+
+#~ msgid "Hudud"
+#~ msgstr ""
+
+#~ msgid "Aloqa"
+#~ msgstr ""
+
+#~ msgid "Texnologiya"
+#~ msgstr ""
+
+#~ msgid "Sherik"
+#~ msgstr ""
+
+#~ msgid "🏢 Idora"
+#~ msgstr ""
+
+#~ msgid "✍️ Mas'ul"
+#~ msgstr ""
+
+#~ msgid "Maosh"
+#~ msgstr ""
+
+#~ msgid "Ish vaqti"
+#~ msgstr ""
+
+#~ msgid "Qo`shimcha"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "\n"
+#~ "    {button} kerak:\n"
+#~ "    👨‍💼 Xodim: {full_name}\n"
+#~ "    🕑 Yosh: {age}\n"
+#~ "    📚 Texnologiya: {technologies}\n"
+#~ "    📞 Aloqa: {phone_number}\n"
+#~ "    🌐 Hudud: {address}\n"
+#~ "    💰 Narxi: {price}\n"
+#~ "    👷 Kasbi: {work_place}\n"
+#~ "    🔎 Maqsad: {goal}\n"
+#~ "    "
+#~ msgstr ""
+
+#~ msgid "Hodim"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "\n"
+#~ "    {button} kerak:\n"
+#~ "    👨‍💼 Hodim: {full_name}\n"
+#~ "    🕑 Yosh: {age}\n"
+#~ "    📚 Texnologiya: {technologies}\n"
+#~ "    📞 Aloqa: {phone_number}\n"
+#~ "    🌐 Hudud: {address}\n"
+#~ "    💰 Narxi: {price}\n"
+#~ "    👷 Kasbi: {work_place}\n"
+#~ "    🔎 Maqsad: {goal}\n"
+#~ "    "
+#~ msgstr ""
+
+#~ msgid ""
+#~ "\n"
+#~ "    Hodim kerak:\n"
+#~ "    🏢 Idora: {full_name}\n"
+#~ "    📚 Texnologiya: {technologies}\n"
+#~ "    📞 Aloqa: {phone_number}\n"
+#~ "    🌐 Hudud: {address}\n"
+#~ "    ✍️ Mas'ul: {age}\n"
+#~ "    🕰 Ish vaqti: {work_place}\n"
+#~ "    💰 Maosh: {price}\n"
+#~ "    ‼️ Qo`shimcha: {goal}"
+#~ msgstr ""
+
+#~ msgid "Hodim kerak"
+#~ msgstr ""
+
+#~ msgid "kerak"
+#~ msgstr ""
+
+#~ msgid "Ish joyi"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "\n"
+#~ "    {button} kerak:\n"
+#~ "    {a}: {full_name}\n"
+#~ "    🕑 Yosh: {age}\n"
+#~ "    📚 Texnologiya: {technologies}\n"
+#~ "    📞 Aloqa: {phone_number}\n"
+#~ "    🌐 Hudud: {address}\n"
+#~ "    💰 Narxi: {price}\n"
+#~ "    👷 Kasbi: {work_place}\n"
+#~ "    🔎 Maqsad: {goal}\n"
+#~ "    "
+#~ msgstr ""
+
